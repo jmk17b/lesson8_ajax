@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jacob Kachur
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project allows for users to look up movies and see informtaion such as plot, rating, etc. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jmk17b.github.io/lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use an API in a webpage
+2. I learned how to use AJAX to update pages live
+3. I learned how to request data from an API
+4. I learned how to use the console to examine my requests
+5. I learned how to read HTTP requests to and from servers
